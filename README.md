@@ -12,7 +12,7 @@
 ### SNS
 - ![sns1](https://img.shields.io/badge/Gmail-E14D43?style=flat&logo=gmail&logoColor=ffffff) was56475@gmail.com
 
-<center>
+<div align=center>
 
 -----
 
@@ -73,4 +73,4 @@
 
 -----
 
-</center>
+</div>
